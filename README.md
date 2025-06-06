@@ -1,3 +1,5 @@
+This is a fork of a project by [Alice Åkesson](https://github.com/aliceakesson). Below is the exact original readme:
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aliceakesson)
 
 # Hearthstone
